@@ -1,2 +1,8 @@
-<h1>Hello World</h1>
-<p>Index Page.</p>
+---
+title: "index"
+author: "Grant Huizenga"
+date: "2022-07-14"
+output: html_document
+---
+
+### index
