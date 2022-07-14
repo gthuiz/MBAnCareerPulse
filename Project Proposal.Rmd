@@ -11,4 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # MBAn Career Pulse
 
+<<<<<<< HEAD
 # Chaoyi Succeeded
+=======
+#Bryant succeeded
+>>>>>>> 47e5c5b479e1c4f9043b452d001a71149ffd0635
