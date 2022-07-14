@@ -1,7 +1,7 @@
 ---
 title: "Project Proposal"
 author: "007 Wolverines"
-date: "2022-07-14"
+date: "2022-07-15"
 output: html_document
 ---
 
@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # MBAn Career Pulse
+
+# Chaoyi Succeeded
