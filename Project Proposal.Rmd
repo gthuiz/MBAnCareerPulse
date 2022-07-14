@@ -10,3 +10,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # MBAn Career Pulse
+
+# Section 1 
+### Include Research from other MBAn (or similar) programs on career data
+### Job fields, Salary, Companies, Industries, Cities
+
+
+# Section 2
+### Provide relevant career fields that we are interested in
+
+
+# Section 3
+### Ross OYM employment data
+
+
+# Section 4
+### Resources related to python, SQL, excel and other skills required for these revelant jobs
