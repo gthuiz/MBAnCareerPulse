@@ -1,3 +1,3 @@
-# Resources
+# Resources {-#resources}
 
 Helpful links for Python, SQL, EXCEL, and other skills required for the relevant jobs

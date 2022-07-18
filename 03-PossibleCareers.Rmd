@@ -1,8 +1,8 @@
-# Possible Careers
+# Possible Careers {-#possible-careers}
 
 High level summary
 
-## Data Scientist
+## Data Scientist {-#data-scientist}
 
 Summary of role
 Salary
@@ -10,7 +10,7 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-## Quantitative Analyst
+## Quantitative Analyst {-#quantitative-analyst}
 
 Summary of role
 Salary
@@ -18,16 +18,7 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-## Data Quality Analyst
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
-
-
-## Associate Consultant
+## Data Quality Analyst {-#data-quality-analyst}
 
 Summary of role
 Salary
@@ -36,7 +27,7 @@ Skills required
 Open roles on LinkedIn
 
 
-## Product Analyst
+## Associate Consultant {-#associate-consultant}
 
 Summary of role
 Salary
@@ -44,7 +35,8 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-## Data Analyst
+
+## Product Analyst {-#product-analyst}
 
 Summary of role
 Salary
@@ -52,7 +44,7 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-## Data Engineer
+## Data Analyst {-#data-analyst}
 
 Summary of role
 Salary
@@ -60,7 +52,15 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-## Business Analyst
+## Data Engineer {-#data-engineer}
+
+Summary of role
+Salary
+Companies
+Skills required
+Open roles on LinkedIn
+
+## Business Analyst {-#business-analyst}
 
 Summary of role
 Salary

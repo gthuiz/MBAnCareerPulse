@@ -13,7 +13,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# MBAn at Ross
+# MBAn at Ross {-#mban-at-ross}
 
 Welcome to Ross!
 
@@ -21,9 +21,9 @@ First year of program
 
 Provide class data
 
-## Courses
+## Courses {-#courses}
 
 
-## Schedule
+## Schedule {-#schedule}
 
 Go Blue!
