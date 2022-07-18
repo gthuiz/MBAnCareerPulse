@@ -23,13 +23,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-mban-career-pulse
-section-1
-include-research-from-other-mban-or-similar-programs-on-career-data
-job-fields-salary-companies-industries-cities
-section-2
-provide-relevant-career-fields-that-we-are-interested-in
-section-3
-ross-oym-employment-data
-section-4
-resources-related-to-python-sql-excel-and-other-skills-required-for-these-revelant-jobs
