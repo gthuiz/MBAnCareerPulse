@@ -1,9 +1,0 @@
-name: "mban-career-pulse-website"
-navbar:
-  title: "MBAn Career Pulse"
-  left:
-    - text: "Home"
-      href: index.html
-output:
-  html_document:
-    theme: darkly
