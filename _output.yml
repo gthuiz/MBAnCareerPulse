@@ -3,7 +3,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">MBAn Career Pulse</a></li>
+        <li class="ross-logo"><a href="./"><img src="images/michigan_ross.png"></a></li>
+        <div class="header-name"><h1>MBAn Career Pulse</h1></div>
       after: |
-        <li><a>007 Wolverines</a></li>
+        <div class="header-name"><h3>007 Wolverines</h3></div>
     download: ["pdf", "epub"]

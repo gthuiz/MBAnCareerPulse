@@ -12,3 +12,38 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.book-summary {
+  background-color: blue;
+}
+
+/*--- LOGO ---*/
+
+.ross-logo {
+  width: 200px !important;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.ross-logo img {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.summary > li:first-child {
+  height: auto !important; 
+}
+
+.header-name {
+  margin-top: 1px;
+  text-align:center;
+}
+
+.header-name h1 {
+  margin: 0px;
+}
+
+.header-name h3 {
+  margin: 0px;
+}
