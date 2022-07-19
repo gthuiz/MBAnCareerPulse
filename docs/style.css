@@ -64,6 +64,10 @@ pre code {
   justify-content: center;
 }
 
-.page-inner {
+.hero-image-container img {
+  width: 100%;
+}
+
+.level1 {
   padding-top: 100px !important;
 }

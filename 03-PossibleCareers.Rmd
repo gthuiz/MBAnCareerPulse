@@ -1,3 +1,13 @@
+
+
+```{r include=FALSE}
+library(readr)
+library(knitr)
+Job_Postings <- read_csv("assets/Job Postings.csv")
+```
+
+
+
 # Possible Careers {-#possible-careers}
 
 High level summary
@@ -9,6 +19,22 @@ Salary
 Companies
 Skills required
 Open roles on LinkedIn
+
+```{r echo=FALSE}
+# kable(Job_Postings[Job_Postings$Role=='Data Scientist',])
+Job_Postings %>%
+  cards(
+    title = Title,
+    text = Text,
+    link = Link,
+    image = Image,
+    width = 4,
+    border_radius = 5,
+    layout = "label-right"
+  )
+
+```
+
 
 ## Quantitative Analyst {-#quantitative-analyst}
 
