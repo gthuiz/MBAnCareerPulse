@@ -19,14 +19,16 @@ pre code {
 
 /*--- LOGO ---*/
 
-.ross-logo {
-  width: 200px !important;
-  object-fit: contain;
+.pulse-logo {
+  width: 250px !important;
   margin: 0 auto;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
 }
 
-.ross-logo img {
+.pulse-logo img {
   max-width: 100%;
   margin-bottom: 10px;
 }
