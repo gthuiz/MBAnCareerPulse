@@ -47,3 +47,21 @@ pre code {
 .header-name h3 {
   margin: 0px;
 }
+
+/* HERO IMAGE */
+
+.hero-image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background-color: #00274C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-inner {
+  padding-top: 100px !important;
+}
