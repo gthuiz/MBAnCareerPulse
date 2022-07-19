@@ -21,8 +21,7 @@ Skills required
 Open roles on LinkedIn
 
 ```{r echo=FALSE}
-# kable(Job_Postings[Job_Postings$Role=='Data Scientist',])
-Job_Postings %>%
+Job_Postings[Job_Postings$Role=='Data Scientist',] %>%
   cards(
     title = Title,
     text = Text,
@@ -32,51 +31,8 @@ Job_Postings %>%
     border_radius = 5,
     layout = "label-right"
   )
-
 ```
 
-
-## Quantitative Analyst {-#quantitative-analyst}
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
-
-## Data Quality Analyst {-#data-quality-analyst}
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
-
-
-## Associate Consultant {-#associate-consultant}
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
-
-
-## Product Analyst {-#product-analyst}
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
-
-## Data Analyst {-#data-analyst}
-
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
 
 ## Data Engineer {-#data-engineer}
 
@@ -86,6 +42,19 @@ Companies
 Skills required
 Open roles on LinkedIn
 
+```{r echo=FALSE}
+Job_Postings[Job_Postings$Role=='Data Engineer',] %>%
+  cards(
+    title = Title,
+    text = Text,
+    link = Link,
+    image = Image,
+    width = 4,
+    border_radius = 5,
+    layout = "label-right"
+  )
+```
+
 ## Business Analyst {-#business-analyst}
 
 Summary of role
@@ -94,4 +63,15 @@ Companies
 Skills required
 Open roles on LinkedIn
 
-
+```{r echo=FALSE}
+Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
+  cards(
+    title = Title,
+    text = Text,
+    link = Link,
+    image = Image,
+    width = 4,
+    border_radius = 5,
+    layout = "label-right"
+  )
+```
