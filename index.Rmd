@@ -3,11 +3,9 @@ site: bookdown::bookdown_site
 title: "MBAn Career Pulse"
 author: "007 Wolverines"
 documentclass: book
-bibliography: [book.bib, packages.bib]
-cover-image: images/mban-career-pulse-logo.png
+favicon: images/favicon.ico
 description: |
   MBAn Career Pulse
-favicon: images/favicon.ico
 ---
 
 
