@@ -16,7 +16,7 @@ library(bs4cards)
 
 
 
-# MBAn at Ross {-#mban-at-ross}
+# Intro {-#intro}
 
 Welcome to Ross!
 
