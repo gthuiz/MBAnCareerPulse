@@ -5,7 +5,7 @@
 </div>
 <div class = "col-md-8">
 <p>{{school_data$Text}}</p>
-<a href="{{school_data$Link}}">{{school_data$LinkName}}</a>
+<a href="{{school_data$Link}}" target="_blank" rel="noopener noreferrer">{{school_data$LinkName}}</a>
 </div>
 </div>
 <hr>

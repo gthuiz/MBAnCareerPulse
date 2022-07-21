@@ -2,6 +2,9 @@
 <div class = "row">
 <div class = "col-md-4">
 <img src="{{user_data$Image}}">
+<div class="d-flex justify-content-center">
+<a href="{{user_data$Link}}" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"></i> LinkedIn</a>
+</div>
 </div>
 <div class = "col-md-8">
 <p>{{user_data$Text}}</p>
