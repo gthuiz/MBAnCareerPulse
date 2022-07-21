@@ -1,0 +1,29 @@
+# About Us {-#about-us}
+
+## Overview {-#overview}
+
+Our group wants to create a site that highlights everything a MBAn student at Ross should know about the prospective job market.  This includes possible careers they might want to pursue, salary expectations, and companies/cities they might end up in.
+
+## The Team {-#the-team}
+
+***
+
+```{r include=FALSE}
+library(readr)
+library(knitr)
+library(bs4cards)
+Team_Bios <- read_csv("assets/Team Bios.csv")
+```
+
+
+
+```{r include=FALSE}
+out = NULL
+users = Team_Bios$Title
+for (user in users){
+  user_data = Team_Bios[Team_Bios$Title==user,]
+  out = c(out,knit_expand('templates/about_me_template.Rmd'))
+}
+```
+`r paste(knit(text = out), collapse = '\n')`
+
