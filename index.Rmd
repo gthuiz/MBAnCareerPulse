@@ -18,16 +18,8 @@ library(bs4cards)
 
 # Intro {-#intro}
 
-Welcome to Ross!
+Welcome to the MBAn Career Pulse site! This site will serve as a comprehensive guide on the exciting job market that awaits our inaugural class of MBAn students.  We're hoping that you'll be able to better understand how data is the "heartbeat" that drives all business through using our Pulse site.
 
-First year of program
+## MBAn at Michigan {-#mban-at-michigan}
 
-Provide class data
-
-## Courses {-#courses}
-
-
-## Schedule {-#schedule}
-
-Go Blue!
-
+Our cohort of 52 students has a diverse background and set of skills and we gaining a foundation in both data analytics and business management through this program.  After completing the 10-month, full-time residential program we'll have many options to choose from when it comes to our desired career paths.  We'll cover a few interesting ones and expand on their salary expectations as well as companies or cities we might end up in.

@@ -1,9 +1,19 @@
 # Other Programs in the US {-#other-programs-in-the-us}
 
-Provide list of other schools offering programs
+After this 1st cohort graduates it will be clear to the rest of the world that MBAn at Michigan is the #1 program in the country (GO BLUE)! Until then, we'll have to rely on data from other schools whose programs are similar.  The list below is not exhaustive, but it includes those who have prestige and recognition similar to UofM.  
 
 ## MIT {-#mit}
+
+Include Data
+
 ## Carnegie Mellon {-#carnegie-mellon}
+
+Include Data
+
 ## Michigan State {-#michigan-state}
+
+Include Data
+
 ## Texas {-#texas}
 
+Include Data
