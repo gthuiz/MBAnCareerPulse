@@ -1,0 +1,11 @@
+<h3>{{school_data$School}}</h3>
+<div class = "row">
+<div class = "col-md-4">
+<img src="{{school_data$Image}}" style="max-width:200px;width:100%">
+</div>
+<div class = "col-md-8">
+<p>{{school_data$Text}}</p>
+<a href="{{school_data$Link}}">{{school_data$LinkName}}</a>
+</div>
+</div>
+<hr>

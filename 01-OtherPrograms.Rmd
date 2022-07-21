@@ -2,18 +2,25 @@
 
 After this 1st cohort graduates it will be clear to the rest of the world that MBAn at Michigan is the #1 program in the country (GO BLUE)! Until then, we'll have to rely on data from other schools whose programs are similar.  The list below is not exhaustive, but it includes those who have prestige and recognition similar to UofM.  
 
-## MIT {-#mit}
 
-Include Data
+***
 
-## Carnegie Mellon {-#carnegie-mellon}
+```{r include=FALSE}
+library(readr)
+library(knitr)
+library(bs4cards)
+Other_Programs <- read_csv("assets/Other Programs.csv")
+```
 
-Include Data
 
-## Michigan State {-#michigan-state}
 
-Include Data
+```{r include=FALSE}
+out = NULL
+schools = Other_Programs$School
+for (school in schools){
+  school_data = Other_Programs[Other_Programs$School==school,]
+  out = c(out,knit_expand('templates/other_program_template.rmd'))
+}
+```
+`r paste(knit(text = out), collapse = '\n')`
 
-## Texas {-#texas}
-
-Include Data
