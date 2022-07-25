@@ -75,3 +75,46 @@ Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
     layout = "label-right"
   )
 ```
+
+
+## Data Analyst {-#data-analyst}
+
+Summary of role
+Salary
+Companies
+Skills required
+Open roles on LinkedIn
+
+```{r echo=FALSE}
+Job_Postings[Job_Postings$Role=='Data Analyst',] %>%
+  cards(
+    title = Title,
+    text = Text,
+    link = Link,
+    image = Image,
+    width = 4,
+    border_radius = 5,
+    layout = "label-right"
+  )
+```
+
+## Business Intelligence Engineer {-#business-intelligence-engineer}
+
+Summary of role
+Salary
+Companies
+Skills required
+Open roles on LinkedIn
+
+```{r echo=FALSE}
+Job_Postings[Job_Postings$Role=='Business Intelligence Engineer',] %>%
+  cards(
+    title = Title,
+    text = Text,
+    link = Link,
+    image = Image,
+    width = 4,
+    border_radius = 5,
+    layout = "label-right"
+  )
+```
