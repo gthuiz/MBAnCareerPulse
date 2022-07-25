@@ -77,11 +77,8 @@ Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
 
 ## Data Analyst {-#data-analyst}
 
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
+Chaoyi is doing it
+
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Analyst',] %>%
