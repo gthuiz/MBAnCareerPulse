@@ -18,7 +18,7 @@ Job_Postings = Job_Postings %>%
   mutate(Company =  paste0('<a  target=_blank href=', `Jobs Link`, '>', Company,'</a>' ))
 
 
-datatable( Job_Postings[c(1,2,9)]
+datatable( Job_Postings[c(1,2,9,3)]
   ,rownames = FALSE
  ,escape = F
  ,extensions = c("SearchPanes", "Select", "Buttons")
@@ -28,7 +28,8 @@ datatable( Job_Postings[c(1,2,9)]
     language = list(searchPanes = list(collapse = "Filter Rows")),
     columnDefs = list(
       list(searchPanes = list(controls = FALSE), targets = 0:2),
-      list(className = "dt-center", targets = 0:2)
+      list(className = "dt-center", targets = 0:2),
+      list(searchPanes = list(show = FALSE), targets = 3:3)
       )
     )
 )
