@@ -15,12 +15,10 @@ We wrote a web scraper in Python to pull company data from [Glassdoor](https://w
 
 ```{r echo=FALSE}
 Job_Postings = Job_Postings %>%
-  mutate(Reviews =  paste0('<a  target=_blank href=', `Reviews Link`, '>', Reviews,'</a>' ),
-          Salaries =  paste0('<a  target=_blank href=', `Salaries Link`, '>', Salaries,'</a>' ),
-          Jobs =  paste0('<a  target=_blank href=', `Jobs Link`, '>', Jobs,'</a>' ))
+  mutate(Company =  paste0('<a  target=_blank href=', `Jobs Link`, '>', Company,'</a>' ))
 
 
-datatable( Job_Postings[c(1,2,9,3,4,5,6)]
+datatable( Job_Postings[c(1,2,9)]
   ,rownames = FALSE
  ,style = 'bootstrap'
  ,escape = F
@@ -31,8 +29,7 @@ datatable( Job_Postings[c(1,2,9,3,4,5,6)]
     language = list(searchPanes = list(collapse = "Filter Rows")),
     columnDefs = list(
       list(searchPanes = list(controls = FALSE), targets = 0:2),
-      list(className = "dt-center", targets = 0:6),
-      list(searchPanes = list(show = FALSE), targets = 3:6)
+      list(className = "dt-center", targets = 0:2)
       )
     )
 )
