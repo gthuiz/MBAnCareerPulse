@@ -21,6 +21,8 @@ Job_Postings = Job_Postings %>%
 
 
 datatable( Job_Postings[c(1,2,9,3,4,5,6)]
+  ,rownames = FALSE
+ ,style = 'bootstrap'
  ,escape = F
  ,extensions = c("SearchPanes", "Select", "Buttons")
  ,options = list(
@@ -28,9 +30,9 @@ datatable( Job_Postings[c(1,2,9,3,4,5,6)]
     buttons = list("searchPanes"),
     language = list(searchPanes = list(collapse = "Filter Rows")),
     columnDefs = list(
-      list(searchPanes = list(controls = FALSE), targets = 0:3),
-      list(className = "dt-center", targets = 0:7),
-      list(searchPanes = list(show = FALSE), targets = 4:7)
+      list(searchPanes = list(controls = FALSE), targets = 0:2),
+      list(className = "dt-center", targets = 0:6),
+      list(searchPanes = list(show = FALSE), targets = 3:6)
       )
     )
 )
