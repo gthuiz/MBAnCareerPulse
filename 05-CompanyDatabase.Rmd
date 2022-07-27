@@ -11,7 +11,7 @@ Job_Postings <- read_csv("assets/company_database.csv")
 
 # Company Database {-#company-database}
 
-We wrote a web scrapper in Python to pull company data from [Glassdoor](https://www.glassdoor.com/member/home/index.htm).  Below are relevant companies by industry that are hiring people for data oriented positions!
+We wrote a web scraper in Python to pull company data from [Glassdoor](https://www.glassdoor.com/member/home/index.htm).  You can find the code for the scraper on [GitHub](https://github.com/gthuiz/GlassdoorWebScraper). Below are relevant companies by industry that are hiring people for data oriented positions!
 
 ```{r echo=FALSE}
 Job_Postings = Job_Postings %>%
