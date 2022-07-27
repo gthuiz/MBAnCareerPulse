@@ -38,13 +38,27 @@ Job_Postings[Job_Postings$Role=='Data Scientist',] %>%
 
 ## Data Engineer {-#data-engineer}
 
-Ruibo is doing it.
+**Summary of role**
 
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
+A data engineer mainly focuses on organizing data for companies’analytical tasks. The data engineers are often in charge of constructing data pipelines to combine data from various source systems. They prepare the data for use in analytics applications by integrating, consolidating, and cleaning it. They want to improve their organization's big data environment and make data easily accessible.
+
+The quantity of data an engineer uses depends on the organization, especially in terms of size. The analytics architecture will be increasingly complicated and the engineer will be in charge of more data as the organization gets bigger. Data-intensive industries include healthcare, retail, and financial services etc.
+
+**Salary**
+
+From 0 – 1 years of experience, the total pay ranges from $82k to $187k per year. The estimated total pay for a Data Engineer is $114,993 per year in the United States, with an average salary of $89,540 per year plus $25,452/yr additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing.
+
+**Skills required**
+
+Some of the primary functions of a data engineer include things like developing data collection processes, integrating new software and data management technologies into an existing system and streamlining the existing foundational processes for data collection and use.Therefore, it requires:
+
+* Coding, at least a basic understanding of programming languages: Python, Java, SAS, R
+MatLab, C and C++  
+* Data warehousing: familiarity and experience using data warehousing solutions.
+* Knowledge of operating systems: intimate understanding of operating systems, such as: Apple macOS, Microsoft Windows, Linux, Solaris and UNIX  
+* Database systems: deep understanding of database management, such as SQL which is considered the most widely used solution  
+
+**Open roles on LinkedIn**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Engineer',] %>%
