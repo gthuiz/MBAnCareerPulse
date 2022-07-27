@@ -120,8 +120,6 @@ Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
 
 ## Data Analyst {-#data-analyst}
 
-Chaoyi is doing it
-
 > Summary of role
 
 Data Analyst is responsible for collecting, storing, and processing a large number of data by scientific priciples and technical experitise to do analysis, make proper decisions, and provide high-quality service for customers. Although it is something similar with business analyst, Data Analyst is more focused on developing technical skills and using data management and machine learning to construct data structure and dive into data to solve problems for companies. Therefore, Data Analyst should be strongly sensitive in mining data and discovering the numerical value.
