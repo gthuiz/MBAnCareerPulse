@@ -14,13 +14,25 @@ High level summary
 
 ## Data Scientist {-#data-scientist}
 
-Bryant is doing this part!
+**Summary of role**
 
-Summary of role
-Salary
-Companies
-Skills required
-Open roles on LinkedIn
+Data scientists work closely with business stakeholders to understand their goals and determine how data can be used to achieve those goals. They design data modeling processes, create algorithms and predictive models to extract the data the business needs, and help analyze the data and share insights with peers. 
+
+While **data analysts** typically work with structured data to solve tangible business problems, **data scientists** often deal with the unknown by using more advanced data techniques to make predictions about the future. This role is generally considered a more advanced version of a data analyst.
+
+**Salary**
+
+According to [Indeed](https://www.indeed.com/career/data-scientist/salaries), the average salary for a data scientist is $141,059 per year in the United States.
+Also according to [Glassdoor](https://www.glassdoor.com/Salaries/data-scientist-salary-SRCH_KO0,14.htm), the estimated total pay for a Data Scientist is $120,206 per year in the United States area, with a base pay of $99,548 plus $20,657 additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing. The total pay ranges between 90K to 172K. 
+
+**Preferred Skills**
+
+* BS/MS in quantitative field (Computer Science, Statistics, Mathematics, Analytics, Data Science)
+* Proficient in data analysis tools and programming languages such as SQL, Python or R
+* Experience in building visualizations (using Tableau/Qlik Sense/Excel/R/Python/tool of choice)
+* Good working knowledge of cloud based services
+
+**Open roles on LinkedIn**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Scientist',] %>%
