@@ -20,7 +20,6 @@ Job_Postings = Job_Postings %>%
 
 datatable( Job_Postings[c(1,2,9)]
   ,rownames = FALSE
- ,style = 'bootstrap'
  ,escape = F
  ,extensions = c("SearchPanes", "Select", "Buttons")
  ,options = list(
