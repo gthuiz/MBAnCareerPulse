@@ -1,0 +1,38 @@
+
+
+```{r include=FALSE}
+library(readr)
+library(knitr)
+library(DT)
+library(tidyverse)
+Job_Postings <- read_csv("assets/company_database.csv")
+```
+
+
+# Company Database {-#company-database}
+
+We wrote a web scrapper in Python to pull company data from [Glassdoor](https://www.glassdoor.com/member/home/index.htm).  Below are relevant companies by industry that are hiring people for data oriented positions!
+
+```{r echo=FALSE}
+Job_Postings = Job_Postings %>%
+  mutate(Reviews =  paste0('<a  target=_blank href=', `Reviews Link`, '>', Reviews,'</a>' ),
+          Salaries =  paste0('<a  target=_blank href=', `Salaries Link`, '>', Salaries,'</a>' ),
+          Jobs =  paste0('<a  target=_blank href=', `Jobs Link`, '>', Jobs,'</a>' ))
+
+
+datatable( Job_Postings[c(1,2,9,3,4,5,6)]
+ ,escape = F
+ ,extensions = c("SearchPanes", "Select", "Buttons")
+ ,options = list(
+    dom = "Btip",
+    buttons = list("searchPanes"),
+    language = list(searchPanes = list(collapse = "Filter Rows")),
+    columnDefs = list(
+      list(searchPanes = list(controls = FALSE), targets = 0:3),
+      list(className = "dt-center", targets = 0:7),
+      list(searchPanes = list(show = FALSE), targets = 4:7)
+      )
+    )
+)
+
+```
