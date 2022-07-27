@@ -25,6 +25,7 @@ datatable( Job_Postings[c(1,2,9,3)]
  ,options = list(
     dom = "Btip",
     buttons = list("searchPanes"),
+    
     language = list(searchPanes = list(collapse = "Filter Rows")),
     columnDefs = list(
       list(searchPanes = list(controls = FALSE), targets = 0:2),
