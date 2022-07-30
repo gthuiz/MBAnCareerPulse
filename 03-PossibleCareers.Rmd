@@ -10,7 +10,7 @@ Job_Postings <- read_csv("assets/Job Postings.csv")
 
 # Possible Careers {-#possible-careers}
 
-High level summary
+An MBAn program helps build a foundation in both data analytics and business management.  The careers detailed below are primarly data orientated and many of the Ross MBAn graduates will end up in these roles or similar ones.  This list is not exhaustive, but provides good insight on a few popular career paths and their salary expectations and possible companies.
 
 ## Data Scientist {-#data-scientist}
 
@@ -18,12 +18,12 @@ High level summary
 
 Data scientists work closely with business stakeholders to understand their goals and determine how data can be used to achieve those goals. They design data modeling processes, create algorithms and predictive models to extract the data the business needs, and help analyze the data and share insights with peers. 
 
-While **data analysts** typically work with structured data to solve tangible business problems, **data scientists** often deal with the unknown by using more advanced data techniques to make predictions about the future. This role is generally considered a more advanced version of a data analyst.
+While data analysts typically work with structured data to solve tangible business problems, data scientists often deal with the unknown by using more advanced data techniques to make predictions about the future. This role is generally considered a more advanced version of a data analyst.
 
 **Salary**
 
 According to [Indeed](https://www.indeed.com/career/data-scientist/salaries), the average salary for a data scientist is $141,059 per year in the United States.
-Also according to [Glassdoor](https://www.glassdoor.com/Salaries/data-scientist-salary-SRCH_KO0,14.htm), the estimated total pay for a Data Scientist is $120,206 per year in the United States area, with a base pay of $99,548 plus $20,657 additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing. The total pay ranges between 90K to 172K. 
+Also according to [Glassdoor](https://www.glassdoor.com/Salaries/data-scientist-salary-SRCH_KO0,14.htm), the estimated total pay for a data scientist is $120,206 per year in the United States area, with a base pay of $99,548 plus $20,657 additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing. The total pay ranges between 90K to 172K. 
 
 **Preferred Skills**
 
@@ -52,20 +52,19 @@ Job_Postings[Job_Postings$Role=='Data Scientist',] %>%
 
 **Summary of role**
 
-A data engineer mainly focuses on organizing data for companies’analytical tasks. The data engineers are often in charge of constructing data pipelines to combine data from various source systems. They prepare the data for use in analytics applications by integrating, consolidating, and cleaning it. They want to improve their organization's big data environment and make data easily accessible.
+A data engineer mainly focuses on organizing data for companies’ analytical tasks. Data Engineer are often in charge of constructing data pipelines to combine data from various source systems. They prepare the data for use in analytics applications by integrating, consolidating, and cleaning it; improving their organization's big data environment and making data easily accessible.
 
-The quantity of data an engineer uses depends on the organization, especially in terms of size. The analytics architecture will be increasingly complicated and the engineer will be in charge of more data as the organization gets bigger. Data-intensive industries include healthcare, retail, and financial services etc.
+The quantity of data a data engineer uses depends on the organization, especially in terms of size. The analytics architecture will be increasingly complicated and the engineer will be in charge of more data as the organization gets bigger. Data-intensive industries include healthcare, retail, and financial services etc.
 
 **Salary**
 
-From 0 – 1 years of experience, the total pay ranges from $82k to $187k per year. The estimated total pay for a Data Engineer is $114,993 per year in the United States, with an average salary of $89,540 per year plus $25,452/yr additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing.
+From 0 – 1 years of experience, the total pay ranges from $82k to $187k per year. The estimated total pay for a data engineer is $114,993 per year in the United States, with an average salary of $89,540 per year plus $25,452/yr additional pay. Additional pay could include cash bonus, commission, tips, and profit sharing.
 
 **Skills required**
 
-Some of the primary functions of a data engineer include things like developing data collection processes, integrating new software and data management technologies into an existing system and streamlining the existing foundational processes for data collection and use.Therefore, it requires:
+Some of the primary functions of a data engineer include things like developing data collection processes, integrating new software and data management technologies into an existing system and streamlining the existing foundational processes for data collection and use. Therefore, it requires:
 
-* Coding, at least a basic understanding of programming languages: Python, Java, SAS, R
-MatLab, C and C++  
+* Programming in a least one language (Python, Java, SAS, R, MatLab, C, C++, etc.)
 * Data warehousing: familiarity and experience using data warehousing solutions.
 * Knowledge of operating systems: intimate understanding of operating systems, such as: Apple macOS, Microsoft Windows, Linux, Solaris and UNIX  
 * Database systems: deep understanding of database management, such as SQL which is considered the most widely used solution  
@@ -87,21 +86,24 @@ Job_Postings[Job_Postings$Role=='Data Engineer',] %>%
 
 ## Business Analyst {-#business-analyst}
 
-Business analysts (BAs) are responsible for bridging the gap between IT and the business using data analytics to assess processes, determine requirements and deliver data-driven recommendations and reports to executives and stakeholders. 
-BAs engage with business leaders and users to understand how data-driven changes to process, products, services, software, and hardware can improve efficiencies and add value. They must articulate those ideas but also balance them against what’s technologically feasible and financially and functionally reasonable. 
+**Summary of role**
 
-Business Analyst is usually considered a great career because it offers strong salaries, plentiful job opportunities, and BAs generally report high job satisfaction and work-life balance. Another perk of a career in business analysis: the possibilities are endless.
+Business analysts are responsible for bridging the gap between IT and the business using data analytics to assess processes, determine requirements and deliver data-driven recommendations and reports to executives and stakeholders. 
+Business analysts engage with business leaders and users to understand how data-driven changes to process, products, services, software, and hardware can improve efficiency and add value. They must articulate those ideas but also balance them against what’s technologically feasible and financially and functionally reasonable. 
 
-According to Indeed, the average salary for a business analyst is $80,615 per year in Ann Arbor, MI.
+Being a business analyst is usually considered a great career because it offers strong salaries, plentiful job opportunities, and they generally report high job satisfaction and work-life balance. The possibilities are endless in a career in business analysis!
 
-Preferred skills
--	Bachelor’s Degree or higher in business analysis, business administration, finance, or related field.
--	Excellent written and verbal communication skills.
--	Great analytical, critical thinking and problem-solving abilities.
--	Strong management and organizational skills.
--	Adaptable and capable of working in fast-paced environment. 
+**Salary**
 
+According to Indeed, the average salary for business analysts is $80,615 per year in Ann Arbor, MI.
 
+**Skills required**
+
+*	Bachelor’s Degree or higher in business analysis, business administration, finance, or related field.
+*	Excellent written and verbal communication skills.
+*	Great analytical, critical thinking and problem-solving abilities.
+*	Strong management and organizational skills.
+*	Adaptable and capable of working in fast-paced environment. 
 
 
 ```{r echo=FALSE}
@@ -122,33 +124,22 @@ Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
 
 **Summary of role**
 
-Data Analyst is responsible for collecting, storing, and processing a large number of data by scientific priciples and technical experitise to do analysis, make proper decisions, and provide high-quality service for customers. Although it is something similar with business analyst, Data Analyst is more focused on developing technical skills and using data management and machine learning to construct data structure and dive into data to solve problems for companies. Therefore, Data Analyst should be strongly sensitive in mining data and discovering the numerical value.
+Data analysts are responsible for collecting, storing, and processing a large amounts of data using scientific principles and technical expertise.  They use data to do analysis, make proper decisions, and provide high-quality service for customers. Data Analysts are similar to Business Analysts, however, data analysts are more focused on developing technical skills and using data management and machine learning to construct data structures and dive into data to solve problems.
 
 **Salary**
 
-Here is the overall career path and salary of each path of a Data Analysis, and all salaries shown are medium:
+Here is the overall career path and salary (median) of each path of a Data Analyst:
 
-1. Data Analyst (0-1 years): $62,382
+* Data Analyst (0-1 years): $62,382
 
-2. Senior Data Analyst (2-4 years): $95,304
+* Senior Data Analyst (2-4 years): $95,304
 
-3. Senior Data Analyst IV (5-7 years): $128,321
+* Senior Data Analyst IV (5-7 years): $128,321
 
-4. Principal Data Analyst (8+ years): $143,837
+* Principal Data Analyst (8+ years): $143,837
 
 Resource: Glassdoor
 
-**Companies**
-
-* Retail: Amazon, Walmart, Target, Costco Wholesale, Home Depot
-
-* Technology: Microsoft, Apple, Dell, Intel, Alphabet
-
-* Business Services: Paypal Holdings, Visa, Mastercard, ManpowerGroup, WasteManagement
-
-* Financials: Berkshire Hathaway, J.P.Morgan Chase, Bank of America, Wells Fargo, Citigroup
-
-Category standard: Fortune 500
 
 **Skills required**
 
@@ -156,15 +147,14 @@ Category standard: Fortune 500
 
 * Proficient at least one in Java, C++, SQL, Python, R, and other programming language.
 
-* Proficient at least one in Tableau, Domo, Power BI, and other visualization tools.
+* Proficient at least one in Tableau, Qlik, Power BI, and other visualization tools.
 
 * Sensitivity in data mining, processing, and presenting, and willingness to learn new and advanced technical analysis methods.
 
-* Highly analytical skills that could define problems, collect necessary data, establish facts, and provide reasonable recommendations for clients.
+* Analytical skills to define problems, collect necessary data, establish facts, and provide reasonable recommendations for clients.
 
-* Solid team-working and multi-task skills that you could handle relationships between different team members and deal with various kinds of problems with great flexibility.
+* Solid team-working and multi-tasking skills.
 
-* Prior working and internship experience in researchers, analyst, and information technology is preferred.
 
 **Open roles on LinkedIn**
 
@@ -185,15 +175,15 @@ Job_Postings[Job_Postings$Role=='Data Analyst',] %>%
 
 **Summary**
 
-Business Intelligence Engineers design and build BI tools and systems that are used to collect and analyze data.  Some of these popular BI tools include Qlik, Power BI, and Tablaeu.  These tools help BI Engineers present the data and visualizations to the end users.  They also utilize cloud-based data warehousing platforms such as AWS and Snowflake when building models and querying data
+Business intelligence engineers design and build BI tools and systems that are used to collect and analyze data.  Some of these popular BI tools include Qlik, Power BI, and Tablaeu.  These tools help BI engineers present the data and visualizations to the end users.  They also utilize cloud-based data warehousing platforms such as AWS and Snowflake when building models and querying data
 
 They work closely with business stakeholders to create the stories that drive BI development.  These BI tools can be powerful in helping key business members make decisions using timely and accurate data.
 
-BI Engineers may also provide training for other staff members on the use of BI tools and programs.
+BI engineers may also provide training for other staff members on the use of BI tools and programs.
 
 **Salary**
 
-According to [Glassdoor](https://www.glassdoor.com/Career/bi-engineer-career_KO0,11.htm), a BI Engineer makes on average $115,400/yr.  This includes $99,050 in base pay and $16,350 in additional pay.
+According to [Glassdoor](https://www.glassdoor.com/Career/bi-engineer-career_KO0,11.htm), a BI engineer makes on average $115,400/yr.  This includes $99,050 in base pay and $16,350 in additional pay.
 
 Salaries typically range between $88k and $162k depending on the industry and level of experience.
 
