@@ -1,11 +1,27 @@
-<h3>{{school_data$School}}</h3>
+<details>
+<summary>{{school_data$School}}</summary>
+
+<br>
 <div class = "row">
-<div class = "col-md-4">
+<div class = "col-md-5">
 <img src="{{school_data$Image}}" style="max-width:200px;width:100%">
 </div>
-<div class = "col-md-8">
+<div class = "col-md-7">
+<p><strong>School:</strong> {{school_data$BusinessSchool}}<br>
+<strong>Ranking: </strong>#{{school_data$Ranking}}<br>
+<strong>Location: </strong>{{school_data$Location}}<br>
+<strong>Cost (Out-of-State): </strong>{{school_data$OutOfStateTuition}}<br>
+<strong>Credits: </strong>{{school_data$Credits}}</p>
+</div>
+</div>
+
+<div class = "row">
+<div class = "col-md-12">
 <p>{{school_data$Text}}</p>
 <a href="{{school_data$Link}}" target="_blank" rel="noopener noreferrer">{{school_data$LinkName}}</a>
 </div>
 </div>
+
+
 <hr>
+</details>

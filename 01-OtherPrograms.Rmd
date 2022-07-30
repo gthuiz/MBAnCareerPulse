@@ -9,9 +9,9 @@ After this 1st cohort graduates it will be clear to the rest of the world that M
 library(readr)
 library(knitr)
 library(bs4cards)
+library(bsplus)
 Other_Programs <- read_csv("assets/Other Programs.csv")
 ```
-
 
 
 ```{r include=FALSE}
