@@ -23,7 +23,7 @@ df$SalaryMin <- as.numeric(as.character(df$SalaryMin)) # Converts factor to nume
 df$SalaryMax <- as.numeric(as.character(df$SalaryMax))
 df$SalaryAvg <- as.numeric(as.character(df$SalaryAvg))
 
-ggplot(df, aes(x=School, col = School))+
+print(ggplot(df, aes(x=School, col = School))+
   geom_linerange(aes(ymin=SalaryMin,ymax=SalaryMax),linetype=2,color="blue")+
   geom_point(aes(y=SalaryMin),size=3)+
   geom_point(aes(y=SalaryMax),size=3)+
@@ -32,5 +32,5 @@ ggplot(df, aes(x=School, col = School))+
   ylab("Salary")+
   xlab("")+
   scale_y_continuous(label=comma)+
-  coord_flip()
+  coord_flip())
 ```
