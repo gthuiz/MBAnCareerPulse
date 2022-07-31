@@ -14,7 +14,7 @@ Other_Programs <- read_csv("assets/Other Programs.csv")
 The below table details salary data from the other programs detailed in the previous section.  The figures presented are Minimum Salary, Average Salary, and Maximum Salary.  If only 1 point is presented then that stat is the Average Salary.
 
 
-```{r echo=FALSE, warning = FALSE}
+```{r plot1, echo=FALSE, warning = FALSE}
 df <- as.data.frame(Other_Programs[c("School","SalaryMin","SalaryMax","SalaryAvg")])
 names(df)<- c("School","SalaryMin","SalaryMax","SalaryAvg")
 
@@ -23,7 +23,7 @@ df$SalaryMin <- as.numeric(as.character(df$SalaryMin)) # Converts factor to nume
 df$SalaryMax <- as.numeric(as.character(df$SalaryMax))
 df$SalaryAvg <- as.numeric(as.character(df$SalaryAvg))
 
-print(ggplot(df, aes(x=School, col = School))+
+p <- ggplot(df, aes(x=School, col = School))+
   geom_linerange(aes(ymin=SalaryMin,ymax=SalaryMax),linetype=2,color="blue")+
   geom_point(aes(y=SalaryMin),size=3)+
   geom_point(aes(y=SalaryMax),size=3)+
@@ -32,5 +32,10 @@ print(ggplot(df, aes(x=School, col = School))+
   ylab("Salary")+
   xlab("")+
   scale_y_continuous(label=comma)+
-  coord_flip())
+  coord_flip()
+```
+
+
+```{r}
+print(p)
 ```
