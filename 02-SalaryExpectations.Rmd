@@ -15,27 +15,26 @@ The below table details salary data from the other programs detailed in the prev
 
 
 ```{r plot1, echo=FALSE, warning = FALSE}
-df <- as.data.frame(Other_Programs[c("School","SalaryMin","SalaryMax","SalaryAvg")])
-names(df)<- c("School","SalaryMin","SalaryMax","SalaryAvg")
-
-
-df$SalaryMin <- as.numeric(as.character(df$SalaryMin)) # Converts factor to numeric
-df$SalaryMax <- as.numeric(as.character(df$SalaryMax))
-df$SalaryAvg <- as.numeric(as.character(df$SalaryAvg))
-
-p <- ggplot(df, aes(x=School, col = School))+
-  geom_linerange(aes(ymin=SalaryMin,ymax=SalaryMax),linetype=2,color="blue")+
-  geom_point(aes(y=SalaryMin),size=3)+
-  geom_point(aes(y=SalaryMax),size=3)+
-  geom_point(aes(y=SalaryAvg),size=3)+
-  theme_bw()+
-  ylab("Salary")+
-  xlab("")+
-  scale_y_continuous(label=comma)+
-  coord_flip()
+#commented it out.  manually saved png to images folder
+# 
+# df <- as.data.frame(Other_Programs[c("School","SalaryMin","SalaryMax","SalaryAvg")])
+# names(df)<- c("School","SalaryMin","SalaryMax","SalaryAvg")
+# 
+# df$SalaryMin <- as.numeric(as.character(df$SalaryMin)) # Converts factor to numeric
+# df$SalaryMax <- as.numeric(as.character(df$SalaryMax))
+# df$SalaryAvg <- as.numeric(as.character(df$SalaryAvg))
+# 
+# P <- ggplot(df, aes(x=School, col = School))+
+#   geom_linerange(aes(ymin=SalaryMin,ymax=SalaryMax),linetype=2,color="blue")+
+#   geom_point(aes(y=SalaryMin),size=3)+
+#   geom_point(aes(y=SalaryMax),size=3)+
+#   geom_point(aes(y=SalaryAvg),size=3)+
+#   theme_bw()+
+#   ylab("Salary")+
+#   xlab("")+
+#   scale_y_continuous(label=comma)+
+#   coord_flip()
+# ggsave("salary-plot.png")
 ```
 
-
-```{r}
-print(p)
-```
+<img src="images/salary-plot.png" style="max-width:700px;width:100%">
