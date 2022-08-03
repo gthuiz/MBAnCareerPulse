@@ -8,7 +8,8 @@
 </div>
 <div class = "col-md-7">
 <p><strong>School:</strong> {{school_data$BusinessSchool}}<br>
-<strong>Ranking: </strong>#{{school_data$Ranking}}<br>
+<strong>MBA Ranking: </strong>#{{school_data$MBARanking}}<br>
+<strong>MBAn Ranking: </strong>#{{school_data$MBAnRanking}}<br>
 <strong>Location: </strong>{{school_data$Location}}<br>
 <strong>Cost (Out-of-State): </strong>{{school_data$OutOfStateTuition}}<br>
 <strong>Credits: </strong>{{school_data$Credits}}</p>
