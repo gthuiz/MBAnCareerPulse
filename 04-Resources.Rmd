@@ -11,3 +11,5 @@ Becoming a data professional is complicated in that you are expected to understa
 ## R {-#r}
 
 ## Business Intelligence Tools {-#business-intelligence-tools}
+
+Business Intelligence (BI) Tools are types of software that are used to process and display data.  Actionable insights and key decisions come out of using these BI systems, and their impact on business operations is continuing to grow.
