@@ -13,3 +13,45 @@ Becoming a data professional is complicated in that you are expected to understa
 ## Business Intelligence Tools {-#business-intelligence-tools}
 
 Business Intelligence (BI) Tools are types of software that are used to process and display data.  Actionable insights and key decisions come out of using these BI systems, and their impact on business operations is continuing to grow.
+
+Below are details on a few of the most popular ones:
+
+### Qlik Sense {-#qlik-sense}
+
+**Customers:**
+
+PayPal, BP, Deloitte, Urban Outfitters, Airbus, Volvo
+
+[Full List](https://www.qlik.com/us/solutions/customers/customer-stories)
+
+
+### Power BI {-#power-bi}
+
+**Customers:**
+
+Hewlett-Packard, KPMG, EY, PwC, Nestle, Rolls Royce
+
+[Full List](https://powerbi.microsoft.com/en-us/customer-showcase/)
+
+
+### Tablaeu {-#tablaeu}
+
+**Summary:**
+
+Tableau data visualization software helps explore relational databases and data cubes through dashboards and reports.  Tablaeu was acquired by Salesforce in 2019 for $15.7 billion, and its technology and software is now utilized on the largest CRM platform.
+
+**Customers:**
+
+Nike, Coca-Cola, Skype, The World Bank, Wells Fargo, Citigroup, Amica, The New York Times
+
+[Full List](https://www.tableau.com/why-tableau/our-customers)
+
+[Tablaeu Website](https://www.tableau.com/)
+
+**Ways to Learn:**
+
+- Practice by [downloading Tableau Desktop](https://www.tableau.com/products/desktop)
+- Use [Tableau Public](https://public.tableau.com/s/) to publish your visualizations online
+- Tableau training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/topics/tableau)
+- Utilize free datasets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Complete [online training courses](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
