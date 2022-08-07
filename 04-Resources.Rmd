@@ -1,3 +1,13 @@
 # Resources {-#resources}
 
-Helpful links for Python, SQL, EXCEL, and other skills required for the relevant jobs
+Becoming a data professional is complicated in that you are expected to understand or have experience with many forms of technology.  This section will detail many of the items you'll be expected to know, and provide helpful resources to learn them if not.
+
+## Python {-#python}
+
+## SQL {-#sql}
+
+## EXCEL {-#excel}
+
+## R {-#r}
+
+## Business Intelligence Tools {-#business-intelligence-tools}
