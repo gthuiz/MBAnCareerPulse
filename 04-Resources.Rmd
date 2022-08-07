@@ -18,14 +18,31 @@ Below are details on a few of the most popular ones:
 
 ### Qlik Sense {-#qlik-sense}
 
+**Summary:**
+
+Qlik's suite of analytics tools allows customers to create visualizations and automated reports to help unlock insights from their data.  Qlik was founded in 1993 and is a well known players in the analytics field.
+
 **Customers:**
 
-PayPal, BP, Deloitte, Urban Outfitters, Airbus, Volvo
+PayPal, BP, Deloitte, Urban Outfitters, Airbus, Volvo, Ford
 
 [Full List](https://www.qlik.com/us/solutions/customers/customer-stories)
+[Qlik Sense Website](https://www.qlik.com/us)
+
+**Ways to Learn:**
+
+- Practice by [downloading Qlik Sense Desktop](https://www.qlik.com/us/trial/download-qlik-sense-desktop)
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Qlik Sense training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=qlik%20sense)
+- [Qlik Learning Portal](https://learning.qlik.com/)
+- Popular YouTube channel: [Abhishek Agarrwal](https://www.youtube.com/watch?v=zs24DVVIALU&ab_channel=AbhishekAgarrwal)
 
 
 ### Power BI {-#power-bi}
+
+**Summary:**
+
+Created by Microsoft in 2011, Power BU is a suite of BI tools that enable customers to develop reports, visualizations, and dashboards.  "Power BI," [Microsoft says](https://powerbi.microsoft.com/en-us/what-is-power-bi/), "is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website."  It integrates well with Microsoft's suite of products and services, and is the logical BI choice for companies that utilize other Microsoft products.
 
 **Customers:**
 
@@ -33,6 +50,15 @@ Hewlett-Packard, KPMG, EY, PwC, Nestle, Rolls Royce
 
 [Full List](https://powerbi.microsoft.com/en-us/customer-showcase/)
 
+[Power BI Website](https://powerbi.microsoft.com/en-us/)
+
+**Ways to Learn:**
+
+- Practice by [downloading Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Power BI training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/topics/power-bi)
+- Complete Introduction course on [Udemy](https://www.udemy.com/course/powerbi-complete-introduction/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-EmMsDQsOzcn1M2NPPFqRLQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+- Popular YouTube channels: [edureka!](https://www.youtube.com/watch?v=3u7MQz1EyPY&ab_channel=edureka%21), [Avi Singh - PowerBIPro](https://www.youtube.com/c/PowerBIPro), [Kevin Stratvert](https://www.youtube.com/watch?v=TmhQCQr_DCA&ab_channel=KevinStratvert)
 
 ### Tablaeu {-#tablaeu}
 
@@ -53,5 +79,6 @@ Nike, Coca-Cola, Skype, The World Bank, Wells Fargo, Citigroup, Amica, The New Y
 - Practice by [downloading Tableau Desktop](https://www.tableau.com/products/desktop)
 - Use [Tableau Public](https://public.tableau.com/s/) to publish your visualizations online
 - Tableau training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/topics/tableau)
-- Utilize free datasets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
 - Complete [online training courses](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
+- Popular YouTube channels: [edureka!](https://www.youtube.com/watch?v=aHaOIvR00So&ab_channel=edureka%21), [freeCodeCamp.org](https://www.youtube.com/watch?v=TPMlZxRRaBQ&ab_channel=freeCodeCamp.org)
