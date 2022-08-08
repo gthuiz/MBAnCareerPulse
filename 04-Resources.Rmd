@@ -19,7 +19,8 @@ Python is a very strong and useful data collection and visualization tool in tod
 - Great YouTube Tutorial for beginners by [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) and for deep learning by [Python Full Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - Free Coursera for Umich: [Python 3 Programming](https://online.umich.edu/series/python-3-programming/) and [Statistics with Python](https://online.umich.edu/series/statistics-with-python/)
 - To do further data valiation and statistics, [Pandas Library](https://pandas.pydata.org/docs/pandas.pdf) and [Numpy Library](https://numpy.org/doc/stable/numpy-user.pdf) maybe helpful for you.
-- For Umich MBAn Students, you could have Python related courses in MBAN 550:Introduction to Data Programming. Click on the [link](https://michiganross.umich.edu/courses/introduction-data-programming-13402) to learn about the curriculum.
+- For Umich Ross MBAn Students, you could have Python related courses in MBAN 550:Introduction to Data Programming. Click on the [link](https://michiganross.umich.edu/courses/introduction-data-programming-13402) to learn about the curriculum.
+
 
 ## MySQL {-#mysql}
 
