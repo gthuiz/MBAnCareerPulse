@@ -1,3 +1,121 @@
 # Resources {-#resources}
 
-Helpful links for Python, SQL, EXCEL, and other skills required for the relevant jobs
+Becoming a data professional is complicated in that you are expected to understand or have experience with many forms of technology.  This section will detail many of the items you'll be expected to know, and provide helpful resources to learn them if not.
+
+## Python {-#python}
+
+**Summary:**
+
+Python is a very strong and useful data collection and visualization tool in today's big data world. With Python, we can collect data from many websites and other files in a flash and analyze data to reach conclusions in various ways. Now, Python is widely used in many industries such as Technology, Business, and Arts. Also, people who use Python fluently are likely to have higher salaries than those without such skill.
+
+**Customers:**
+
+[Python website](https://www.python.org)
+
+**Ways to learn:**
+
+- Practice by downloading [Python 3.x](https://www.python.org/downloads/) and [VSCode](https://code.visualstudio.com) according to your computer system.
+- Download [Python Cheat Sheet](https://www.pythoncheatsheet.org/cheatsheet/args-and-kwargs) in your computer for looking up.
+- Great YouTube Tutorial for beginners by [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) and for deep learning by [Python Full Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- Free Coursera for Umich: [Python 3 Programming](https://online.umich.edu/series/python-3-programming/) and [Statistics with Python](https://online.umich.edu/series/statistics-with-python/)
+- To do further data valiation and statistics, [Pandas Library](https://pandas.pydata.org/docs/pandas.pdf) and [Numpy Library](https://numpy.org/doc/stable/numpy-user.pdf) maybe helpful for you.
+- For Umich MBAn Students, you could have Python related courses in MBAN 550:Introduction to Data Programming. Click on the [link](https://michiganross.umich.edu/courses/introduction-data-programming-13402) to learn about the curriculum.
+
+## MySQL {-#mysql}
+
+**Summary:**
+
+MySQL is an open-source relational database management system. Its name is a combination of "My", the name of co-founder Michael Widenius's daughter My, and "SQL", the abbreviation for Structured Query Language.
+
+**Customers:**
+
+BBC, facebook, NASA, Symantec, JP Morgan, Verizon
+[Full List](https://www.mysql.com/customers/)
+[MySQL Website](https://www.mysql.com/)
+
+**Ways to Learn:**
+
+- Practice by [downloading MySQL Desktop](https://www.mysql.com/downloads/)
+- Great YouTube Tutorial for beginners by [Programming with Mosh](https://youtu.be/7S_tz1z_5bA)(This guy is all you need to start!!)
+- Another MySQL Tutorial website if you don't like YouTube: [MySQLTutorial](https://www.mysqltutorial.org/)
+- Recommended Coursera's course: [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science) from UC Davis 
+- Free Coursera course from Umich: [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
+- [Datacamp](https://www.datacamp.com/) is another great website to study and pratice SQL
+
+
+## EXCEL {-#excel}
+
+## R {-#r}
+
+## Business Intelligence Tools {-#business-intelligence-tools}
+
+Business Intelligence (BI) Tools are types of software that are used to process and display data.  Actionable insights and key decisions come out of using these BI systems, and their impact on business operations is continuing to grow.
+
+Below are details on a few of the most popular ones:
+
+### Qlik Sense {-#qlik-sense}
+
+**Summary:**
+
+Qlik's suite of analytics tools allows customers to create visualizations and automated reports to help unlock insights from their data.  Qlik was founded in 1993 and is a well known players in the analytics field.
+
+**Customers:**
+
+PayPal, BP, Deloitte, Urban Outfitters, Airbus, Volvo, Ford
+
+[Full List](https://www.qlik.com/us/solutions/customers/customer-stories)
+[Qlik Sense Website](https://www.qlik.com/us)
+
+**Ways to Learn:**
+
+- Practice by [downloading Qlik Sense Desktop](https://www.qlik.com/us/trial/download-qlik-sense-desktop)
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Qlik Sense training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=qlik%20sense)
+- [Qlik Learning Portal](https://learning.qlik.com/)
+- Popular YouTube channel: [Abhishek Agarrwal](https://www.youtube.com/watch?v=zs24DVVIALU&ab_channel=AbhishekAgarrwal)
+
+
+### Power BI {-#power-bi}
+
+**Summary:**
+
+Created by Microsoft in 2011, Power BU is a suite of BI tools that enable customers to develop reports, visualizations, and dashboards.  "Power BI," [Microsoft says](https://powerbi.microsoft.com/en-us/what-is-power-bi/), "is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website."  It integrates well with Microsoft's suite of products and services, and is the logical BI choice for companies that utilize other Microsoft products.
+
+**Customers:**
+
+Hewlett-Packard, KPMG, EY, PwC, Nestle, Rolls Royce
+
+[Full List](https://powerbi.microsoft.com/en-us/customer-showcase/)
+
+[Power BI Website](https://powerbi.microsoft.com/en-us/)
+
+**Ways to Learn:**
+
+- Practice by [downloading Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Power BI training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/topics/power-bi)
+- Complete Introduction course on [Udemy](https://www.udemy.com/course/powerbi-complete-introduction/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-EmMsDQsOzcn1M2NPPFqRLQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+- Popular YouTube channels: [edureka!](https://www.youtube.com/watch?v=3u7MQz1EyPY&ab_channel=edureka%21), [Avi Singh - PowerBIPro](https://www.youtube.com/c/PowerBIPro), [Kevin Stratvert](https://www.youtube.com/watch?v=TmhQCQr_DCA&ab_channel=KevinStratvert)
+
+### Tablaeu {-#tablaeu}
+
+**Summary:**
+
+Tableau data visualization software helps explore relational databases and data cubes through dashboards and reports.  Tablaeu was acquired by Salesforce in 2019 for $15.7 billion, and its technology and software is now utilized on the largest CRM platform.
+
+**Customers:**
+
+Nike, Coca-Cola, Skype, The World Bank, Wells Fargo, Citigroup, Amica, The New York Times
+
+[Full List](https://www.tableau.com/why-tableau/our-customers)
+
+[Tablaeu Website](https://www.tableau.com/)
+
+**Ways to Learn:**
+
+- Practice by [downloading Tableau Desktop](https://www.tableau.com/products/desktop)
+- Use [Tableau Public](https://public.tableau.com/s/) to publish your visualizations online
+- Tableau training courses are offered on [LinkedIn Learning](https://www.linkedin.com/learning/topics/tableau)
+- Utilize free data sets at [kaggle](https://www.kaggle.com/) to build your dashboards
+- Complete [online training courses](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
+- Popular YouTube channels: [edureka!](https://www.youtube.com/watch?v=aHaOIvR00So&ab_channel=edureka%21), [freeCodeCamp.org](https://www.youtube.com/watch?v=TPMlZxRRaBQ&ab_channel=freeCodeCamp.org)
