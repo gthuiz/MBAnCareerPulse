@@ -10,7 +10,9 @@ Python is a very strong and useful data collection and visualization tool in tod
 
 **Customers:**
 
-[Python website](https://www.python.org)
+Many Companies in various industries share their successful stories about Python, View the successful stories [here](https://www.python.org/success-stories/)
+
+View Python website [here](https://www.python.org)
 
 **Ways to learn:**
 
