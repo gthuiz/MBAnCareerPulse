@@ -4,8 +4,66 @@ Below we'll detail how we created this awesome website!
 
 ## Setting up R-Markdown project {-#setting-up-r-markdown-project}
 
-blah blah
+[Video on how to set up bookdown project](https://www.youtube.com/watch?v=RdSmYvbQkhs&ab_channel=GregoryMacfarlane)
+
+I followed the above tutorial to create the bookdown page below
+
+[Cool help guide on bookdown styling](https://rstudio4edu.github.io/rstudio4edu-book/index.html)
+
+
+[Good resource for bs4_book](https://bookdown.org/yihui/bookdown/html.html)
+
 
 ## GitHub {-#github}
 
+connected to git hub
+
+insert tutorial later
+
+we made sure everyone could push and pull.  we encountered issues but resolved them by communicating or using the following git commands:
+
 ## Content Sections {-#content-sections}
+
+### About Us {-#about-us}
+
+talk about csv files and templates
+
+### Potential Careers {-#potential-careers}
+
+talk about csv files and templates and bootstrap cards
+
+### Other Programs {-#other-programs}
+
+talk about research and csv files
+
+### Salary Expectations {-#salary-expectations}
+
+talk about ggplot and manipulating dataframes
+
+### Company Database {-#company-database}
+
+talk about webscraping and python and glassdoor
+
+### Resources {-#resources}
+
+talk about research and skills and general r markdown syntax (bulleted lists, links, sections)
+
+### Deploying Site {-#deploying-site}
+
+When we push to github we set up github pages to automatically deploy the site with the most recent changes.  Provide link to how to set this up
+
+## Team Strategy {-#team-strategy}
+
+We are the 007 Wolverines
+
+### Handling Changes and Conflict {-#handling-changes-and-conflict}
+
+we used class content
+
+### Dividing Work {-#dividing-work}
+
+Identified strengths and weaknesses
+
+### Agile {-#agile}
+
+## Final Thoughts {-#final-thoughts}
