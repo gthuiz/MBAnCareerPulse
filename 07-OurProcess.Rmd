@@ -1,0 +1,11 @@
+# Our Process {-#our-process}
+
+Below we'll detail how we created this awesome website!
+
+## Setting up R-Markdown project {-#setting-up-r-markdown-project}
+
+blah blah
+
+## GitHub {-#github}
+
+## Content Sections {-#content-sections}
