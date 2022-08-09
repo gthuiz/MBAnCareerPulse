@@ -16,7 +16,7 @@ View Python website [here](https://www.python.org)
 
 **Ways to learn:**
 
-- Practice by downloading [Python 3.x](https://www.python.org/downloads/) and [VSCode](https://code.visualstudio.com) according to your computer system.
+- Practice by downloading [Python 3.x](https://www.python.org/downloads/){target="_blank"} and [VSCode](https://code.visualstudio.com) according to your computer system.
 - Download [Python Cheat Sheet](https://www.pythoncheatsheet.org/cheatsheet/args-and-kwargs) in your computer for looking up.
 - Great YouTube Tutorial for beginners by [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) and for deep learning by [Python Full Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - Free Coursera for Umich: [Python 3 Programming](https://online.umich.edu/series/python-3-programming/) and [Statistics with Python](https://online.umich.edu/series/statistics-with-python/)
