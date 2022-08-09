@@ -48,6 +48,25 @@ BBC, facebook, NASA, Symantec, JP Morgan, Verizon
 
 ## EXCEL {-#excel}
 
+**Summary:**
+
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications (VBA). Excel forms part of the Microsoft Office suite of software.
+
+**Customers:**
+
+Amazon, Cigna, Deloitte, PayPal, Tesla, US Bank
+
+[Full List](https://customers.microsoft.com/en-us/search?sq=%22Excel%22&ff=&p=3&so=story_publish_date%20desc)
+[Excel Website](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+**Ways to Learn:**
+
+- Practice by [download Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
+- Excel training tutorial [entry level](https://www.youtube.com/watch?v=k1VUZEVuDJ8)
+- Complete excel essential training at [LinkedIn learning](https://www.linkedin.com/learning/excel-essential-training-office-365-microsoft-365?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning)
+- Excel data-analysis [checklist](https://www.edupristine.com/blog/8-excel-functions-for-data-analyst)
+- Excel data-analysis specified advanced skills  [tutorial](https://www.youtube.com/watch?v=OOWAk2aLEfk)
+
 ## R {-#r}
 
 ## Business Intelligence Tools {-#business-intelligence-tools}
