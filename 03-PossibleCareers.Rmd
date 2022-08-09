@@ -32,7 +32,7 @@ Also according to [Glassdoor](https://www.glassdoor.com/Salaries/data-scientist-
 * Experience in building visualizations (using Tableau/Qlik Sense/Excel/R/Python/tool of choice)
 * Good working knowledge of cloud based services
 
-**Open roles on LinkedIn**
+**Open roles**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Scientist',] %>%
@@ -69,7 +69,7 @@ Some of the primary functions of a data engineer include things like developing 
 * Knowledge of operating systems: intimate understanding of operating systems, such as: Apple macOS, Microsoft Windows, Linux, Solaris and UNIX  
 * Database systems: deep understanding of database management, such as SQL which is considered the most widely used solution  
 
-**Open roles on LinkedIn**
+**Open roles**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Engineer',] %>%
@@ -105,6 +105,7 @@ According to Indeed, the average salary for business analysts is $80,615 per yea
 *	Strong management and organizational skills.
 *	Adaptable and capable of working in fast-paced environment. 
 
+**Open roles**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Business Analyst',] %>%
@@ -156,7 +157,7 @@ Resource: Glassdoor
 * Solid team-working and multi-tasking skills.
 
 
-**Open roles on LinkedIn**
+**Open roles**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Data Analyst',] %>%
@@ -195,7 +196,7 @@ Salaries typically range between $88k and $162k depending on the industry and le
 * Being a problem solver and critical thinker
 * Familiar with version control and relational databases
 
-**Open roles on LinkedIn**
+**Open roles**
 
 ```{r echo=FALSE}
 Job_Postings[Job_Postings$Role=='Business Intelligence Engineer',] %>%
