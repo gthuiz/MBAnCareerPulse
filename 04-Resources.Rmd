@@ -69,6 +69,26 @@ Amazon, Cigna, Deloitte, PayPal, Tesla, US Bank
 
 ## R {-#r}
 
+**Summary:**
+
+R is one of the most commonly used programing language in data mining. R posses an extensive catalog of statistical and graphical method including ,achine learning algorithms, linear regression, time series, statistical... Data analysis with R is done in a series of steps; programming, transforming, discovering, modeling and communicate the results. 
+
+
+**Customers:**
+
+Uber, Google, Airbnb, Facebook...
+
+**Ways to Learn:**
+
+Earn certificate
+- with code academy: https://www.codecademy.com/learn/learn-r
+- with Harvard University: https://www.edx.org/course/data-science-r-basics?source=aw&awc=6798_1660076912_ff4c59b4372e1a370030aa779b554842&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=428263_Hackr.io
+
+
+Take course on coursera: https://www.coursera.org/learn/r-programming
+
+
+
 ## Business Intelligence Tools {-#business-intelligence-tools}
 
 Business Intelligence (BI) Tools are types of software that are used to process and display data.  Actionable insights and key decisions come out of using these BI systems, and their impact on business operations is continuing to grow.
