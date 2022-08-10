@@ -10,9 +10,9 @@ Python is a very strong and useful data collection and visualization tool in tod
 
 **Customers:**
 
-Many Companies in various industries share their successful stories about Python, View the successful stories [here](https://www.python.org/success-stories/)
+Many Companies in various industries share their successful stories about Python, View the  [Successful stories](https://www.python.org/success-stories/)
 
-View Python website [here](https://www.python.org)
+[Python Website](https://www.python.org)
 
 **Ways to learn:**
 
@@ -33,7 +33,9 @@ MySQL is an open-source relational database management system. Its name is a com
 **Customers:**
 
 BBC, facebook, NASA, Symantec, JP Morgan, Verizon
+
 [Full List](https://www.mysql.com/customers/)
+
 [MySQL Website](https://www.mysql.com/)
 
 **Ways to Learn:**
@@ -57,6 +59,7 @@ Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Andr
 Amazon, Cigna, Deloitte, PayPal, Tesla, US Bank
 
 [Full List](https://customers.microsoft.com/en-us/search?sq=%22Excel%22&ff=&p=3&so=story_publish_date%20desc)
+
 [Excel Website](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 **Ways to Learn:**
@@ -78,16 +81,15 @@ R is one of the most commonly used programming language in data mining. R posses
 
 Uber, Google, Airbnb, Facebook...
 
+[R website](https://www.r-project.org)
+
 **Ways to Learn:**
 
 Earn certificate
 - [with code academy](https://www.codecademy.com/learn/learn-r)
 - [with Harvard University](https://www.edx.org/course/data-science-r-basics?source=aw&awc=6798_1660076912_ff4c59b4372e1a370030aa779b554842&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=428263_Hackr.io)
 
-
 [Take course on coursera](https://www.coursera.org/learn/r-programming)
-
-
 
 ## Business Intelligence Tools {-#business-intelligence-tools}
 
@@ -106,6 +108,7 @@ Qlik's suite of analytics tools allows customers to create visualizations and au
 PayPal, BP, Deloitte, Urban Outfitters, Airbus, Volvo, Ford
 
 [Full List](https://www.qlik.com/us/solutions/customers/customer-stories)
+
 [Qlik Sense Website](https://www.qlik.com/us)
 
 **Ways to Learn:**
