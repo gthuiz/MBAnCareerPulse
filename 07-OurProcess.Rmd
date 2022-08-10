@@ -40,11 +40,13 @@ we made sure everyone could push and pull.  we encountered issues but resolved t
 
 ### Potential Careers {-#potential-careers}
 
-talk about csv files and templates and bootstrap cards
+We chose five potential careers that are the most related to the BA program: Data Scientist, Data Engineer, Business Analyst, Data Analyst and BI Engineer. Each member on the team takes one career to do deep research. 
+
+We created an excel to put all of the career information such as open roles, salaries and preferred skills in. This csv file will then be added to our resource. We then created a template to show each career clearly. This saved us a lot of lines of codes. Bootstrap cards are also used in this section for open roles which users are able to see it more clearly visually and have the links directly to the job website. 
 
 ### Other Programs {-#other-programs}
 
-talk about research and csv files
+We chose around ten schools' BA programs which we believe are similar to our program. We found their curriculum, courses, tuition, ranking and other general information for the schools and employment data if there is any. We also put all these data into the csv file for us to change and insert easily. One feature we used in the R in this section is hide and unhide. This makes the website look clean and users can choose the schools they are interested on their own. The employment data for each school is also directly linked. 
 
 ### Salary Expectations {-#salary-expectations}
 
@@ -72,7 +74,8 @@ we used class content
 
 ### Dividing Work {-#dividing-work}
 
-Identified strengths and weaknesses
+Our team was able to finalize the website structure and different sections we want to include very early. This allowed us to have the project timeline ready very early, too. Basically for each week, our week focused on completing on section. Inside the section, we divided our work either at the team meeting or sign up on a separate spreadsheet. Luckily, all of our team members kept up with the deadline very well. We reminded and helped each other for any technical or research difficulties. Therefore, an additional section was required by Sanjeev at the end of the semester, we managed to push the deadline a little bit early and finished the whole project on time. 
+
 
 ### Agile {-#agile}
 
@@ -85,3 +88,7 @@ Identified strengths and weaknesses
 * Not only do we focus on our project, but we pay attention to personal development. Our team leader always teaches us some useful tools in R Markdown and how to use them.
 
 ## Final Thoughts {-#final-thoughts}
+
+* Overall we all believe this is an excellent team project experience. Grant is very experienced in doing this type of work and he has been a great team leader. Everybody else has also been learning so much from him as well as finishing his own work efficiently. This is a valuable lesson for each of us to gain some new skills by working on a team programming project. 
+
+* In the remaining time, all we have left is the final presentation for this project. This is an exciting time for us to share what we created and how other students could use it as a helpful resource in the future. We will keep using our team operation strategy to prepare for the presentation. We will also try to change things we hoped to improve according to the mid point report. All in all, we want to finish this semester strongly with the presentation. 
