@@ -42,7 +42,7 @@ we made sure everyone could push and pull.  we encountered issues but resolved t
 
 We chose five potential careers that are the most related to the BA program: Data Scientist, Data Engineer, Business Analyst, Data Analyst and BI Engineer. Each member on the team takes one career to do deep research. 
 
-We created an excel to put all of the career information such as open roles, salaries and preferred skills in. This csv file will then be added to our resource. We then created a template to show each career clearly. This saved us a lot of lines of codes. Bootstrap cards are also used in this section for open roles which users are able to see it more clearly visually and have the links directly to the job website. 
+We created an excel to put all of the career information such as open roles, salaries and preferred skills in. This csv file will then be added to our resource. We then created a template to format and show each career clearly. This saved us a lot of time and lines of codes. Bootstrap cards are also used in this section for open roles which users are able to see it more clearly visually and have the links directly to the job website. 
 
 ### Other Programs {-#other-programs}
 
