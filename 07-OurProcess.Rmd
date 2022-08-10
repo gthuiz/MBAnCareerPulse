@@ -49,7 +49,7 @@ We created an excel to put all of the career information such as open roles, sal
 We chose around ten schools' BA programs which we believe are similar to our program. We found their curriculum, courses, tuition, ranking and other general information for the schools and employment data if there is any. We also put all these data into the csv file for us to change and insert easily. One feature we used in the R in this section is hide and unhide. This makes the website look clean and users can choose the schools they are interested on their own. The employment data for each school is also directly linked. 
 
 ### Salary Expectations {-#salary-expectations}
-
+Ruibo is doing it
 talk about ggplot and manipulating dataframes
 
 ### Company Database {-#company-database}
