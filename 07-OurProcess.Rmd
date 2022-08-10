@@ -56,7 +56,19 @@ talk about webscraping and python and glassdoor
 
 ### Resources {-#resources}
 
-talk about research and skills and general r markdown syntax (bulleted lists, links, sections)
+1. This section contains the introduction of data processing skills and languages which are widely used in data analysis positions and useful links to learn them especially for beginners.
+
+2. According to possible careers and MBAn curriculum, we understood the requirements and preferences of Business Analytics related positions. Then, we summarized some important programming and software skills which were Python, SQL, Excel, R, and other Business Intelligence Tools.
+
+3. We wrote about each module in three parts:
++ **Summary**: Briefly introduce what is the skill and what does it use for.
++ **Customers**: The companies which extensively use such skill during their work.
++ **Ways to Learn**: We told how could they build the environment by downloading software and language package. Also, we recommended useful learning resources such as Coursera, YouTube, library, and documents.
+
+4. To finish this section. We used some R Markdown Syntax:
++ Insert links in words or sentences: [words or sentences](links)
++ Bold subtitles: **subtitle**
++ Ballpoints: -
 
 ### Deploying Site {-#deploying-site}
 
