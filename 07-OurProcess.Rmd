@@ -86,7 +86,7 @@ we used class content
 
 ### Dividing Work {-#dividing-work}
 
-Our team was able to finalize the website structure and different sections we want to include very early. This allowed us to have the project timeline ready very early, too. Basically for each week, our week focused on completing on section. Inside the section, we divided our work either at the team meeting or sign up on a separate spreadsheet. Luckily, all of our team members kept up with the deadline very well. We reminded and helped each other for any technical or research difficulties. Therefore, an additional section was required by Sanjeev at the end of the semester, we managed to push the deadline a little bit early and finished the whole project on time. 
+Our team was able to finalize the website structure and different sections we want to include very early. This allowed us to have the project timeline ready very early, too. Basically for each week, our week focused on completing on section. Inside the section, we divided our work either at the team meeting or sign up on a separate spreadsheet. Luckily, all of our team members kept up with the deadline very well. We reminded and helped each other for any technical or research difficulties. Therefore, an additional section was required by Sanjeev at the end of the semester, we managed to push the deadline a little bit early and finished the whole project on time.
 
 
 ### Agile {-#agile}
