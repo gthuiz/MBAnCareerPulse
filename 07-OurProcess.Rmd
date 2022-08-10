@@ -66,4 +66,12 @@ Identified strengths and weaknesses
 
 ### Agile {-#agile}
 
+* Before we hold a meeting, we would briefly introduce the main purpose, some bull-points, and some points of note of the meeting. If it involves our previous work, we will check if everyone has done. Also, we check everyone's schedule to ensure everyone could attend the meeting. We need to increase the participation rate and let all members understand our project and process comprehensively to narrow the information gap so we could push our project with great efficiency.
+
+* During the meeting, everyone is welcomed to express their opinions and exchange ideas. When someone is talking about our project, others are listening to him carefully and respectfully. For someone giving thoughtful ideas, we show high recommendation to him. If he ignores something, we would remind him instead of blaming him. We maintain a healthy and positive atmosphere in our team so that everyone feels comfortable in the team.
+
+* At the end of the meeting, our leader quickly makes the decision about our next step, what we should do, and our deadline of our tasks. Because of fully preparation before the meeting and active discussion during the meeting, we easily come to agreement so that we could speed up our decision process and leave time for feedback.
+
+* Not only do we focus on our project, but we pay attention to personal development. Our team leader always teaches us some useful tools in R Markdown and how to use them.
+
 ## Final Thoughts {-#final-thoughts}
