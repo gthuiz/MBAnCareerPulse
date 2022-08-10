@@ -26,7 +26,17 @@ we made sure everyone could push and pull.  we encountered issues but resolved t
 
 ### About Us {-#about-us}
 
-talk about csv files and templates
+1. This section contains the introduction of our team members and our LinkedIn links if users want to contact our team members or learn more about us.
+
+2. We built a csv file, uploaded it to our Google drive, and asked everyone to fill in the blanks. The contents are the following:
++ **Title**: Our names in alphabetical order.
++ **Text**: Brief introduction of ourselves. It contains our education background, our internship and working experience, and our vision in the future.
++ **Link**: Our LinkedIn personal URL so that users could see our member's personal file.
++ **Image**: Our member's photo stickers. All of us are very handsome, right?
+
+3. After finishing our csv file, we would download it into our computer and use R language in R studio to let it read our file.
+
+4. Finally, we would install package in "Build", commit, and push to github.
 
 ### Potential Careers {-#potential-careers}
 
