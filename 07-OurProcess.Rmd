@@ -36,7 +36,7 @@ we made sure everyone could push and pull.  we encountered issues but resolved t
 
 3. After finishing our csv file, we would download it into our computer and use R language in R studio to let it read our file.
 
-4. Finally, we would install package in "Build", commit, and push to github.
+4. Finally, we would install package in "Build", commit, and push to the github.
 
 ### Potential Careers {-#potential-careers}
 
