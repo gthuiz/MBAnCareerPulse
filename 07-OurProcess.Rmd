@@ -2,25 +2,34 @@
 
 Below we'll detail how we created this awesome website!
 
-## Setting up R-Markdown project {-#setting-up-r-markdown-project}
+## Setting up bookdown project {-#setting-up-bookdown-project}
 
-[Video on how to set up bookdown project](https://www.youtube.com/watch?v=RdSmYvbQkhs&ab_channel=GregoryMacfarlane)
+First we created a new project in R Studio and selected the Projected Type of "Book project using bookdown"
 
-I followed the above tutorial to create the bookdown page below
+<img src="images/new_project_screenshot.png" style="max-width:500px;width:100%">
+
+
+This template creates all the necessary files for creating the bookdown website.  In the _ouput.yml file we did change the bookdown type from a gitbook to bs4_book.  This change allows use to utilize a popular html framework called bootstrap.  Documentation for bootstrap can be found [here](https://getbootstrap.com/).  In general, the styling is much more appealing compared to gitbook and bootstrap is great for creating responsive pages that look great on mobile devices.
+
+Here are some other resources related to setting up a bookdown project
+
+[Bookdown and GitHub Pages setup](https://www.youtube.com/watch?v=RdSmYvbQkhs&ab_channel=GregoryMacfarlane)
 
 [Cool help guide on bookdown styling](https://rstudio4edu.github.io/rstudio4edu-book/index.html)
-
 
 [Good resource for bs4_book](https://bookdown.org/yihui/bookdown/html.html)
 
 
 ## GitHub {-#github}
 
-connected to git hub
+After creating our local bookdown project we needed to add it to GitHub so our entire team could work on it.  We initialized a repository and added all of those files.  We committed those additions as an initial commit and pushed to GitHub.  After successfully pushing the files we were all able to connect and make commits going forward.
 
-insert tutorial later
+GitHub has a great feature called GitHub Pages which allows repositories to be displayed as a publicly accessible website.  On our _bookdown.yml file we specified that the HTML files generated that drive the site be dumped to a "docs" folder using the following code: output_dir: "docs".  When configuring GitHub Pages you can specify which directory the site will be built from. 
 
-we made sure everyone could push and pull.  we encountered issues but resolved them by communicating or using the following git commands:
+<img src="images/github_pages_screenshot.png" style="max-width:500px;width:100%">
+
+
+Our site was up and running at the [default url](https://gthuiz.github.io/MBAnCareerPulse/), and when we push to github those changes are automatically deployed to the site. Next, we were tasked with the more difficult job of adding content and making the site worth visiting.
 
 ## Content Sections {-#content-sections}
 
@@ -72,9 +81,6 @@ talk about webscraping and python and glassdoor
 + Bold subtitles: **subtitle**
 + Ballpoints: -
 
-### Deploying Site {-#deploying-site}
-
-When we push to github we set up github pages to automatically deploy the site with the most recent changes.  Provide link to how to set this up
 
 ## Team Strategy {-#team-strategy}
 
