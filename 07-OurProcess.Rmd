@@ -58,12 +58,18 @@ We created an excel to put all of the career information such as open roles, sal
 We chose around ten schools' BA programs which we believe are similar to our program. We found their curriculum, courses, tuition, ranking and other general information for the schools and employment data if there is any. We also put all these data into the csv file for us to change and insert easily. One feature we used in the R in this section is hide and unhide. This makes the website look clean and users can choose the schools they are interested on their own. The employment data for each school is also directly linked. 
 
 ### Salary Expectations {-#salary-expectations}
-Ruibo is doing it
-talk about ggplot and manipulating dataframes
+
+After compiling data on the other programs we wanted to create a visualization that showed the salary ranges for graduates from each school.  We stored that data in a csv file and loaded it to r as a data frame.  The columns are School, SalaryMin, SalaryMax, and SalaryAvg.  Not all of that data was available so for some schools we just show the average.
+
+We used ggplot2 to create the plot.  [ggplot2](https://ggplot2.tidyverse.org/reference/ggplot.html) is a popular open-source data visualization package and we found it very easy to use.  We used geom_linerange() to create the line from the min to the max and geom_point() to add dots for each value.
 
 ### Company Database {-#company-database}
 
-talk about webscraping and python and glassdoor
+After gathering user stories one of the key changes we wanted to make was being able to show companies that were hiring data oriented positions by industry.  Rather than manually compiling this list we wanted to get the data from [glassdoor](https://www.glassdoor.com/) and to do that we created a webscapper. Our python project can be found [here](https://github.com/gthuiz/GlassdoorWebScraper) and it utilizes a python package called [https://www.selenium.dev/]() to loop through all the pages and select the proper HTML elements.  We pulled the top 50 companies for each of the 5 careers we detailed in earlier sections, totaling 250 records.
+
+We loaded that data from a csv to r and stored it as a dataframe.  Then we displayed that dataframe on our page using a [datatable](https://rstudio.github.io/DT/) which is found in the DT package.  The search and filter capabilities are controlled by the button extensions which made it very easy for us to allow the user to filter by industry.
+
+We modified the tutorial found [here](https://github.com/kelvinxuande/glassdoor-scraper) and this provides a good visual on the process if you are interested on you can build your own web scraper.
 
 ### Resources {-#resources}
 
