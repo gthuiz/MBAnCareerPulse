@@ -90,7 +90,6 @@ We modified the tutorial found [here](https://github.com/kelvinxuande/glassdoor-
 
 ## Team Strategy {-#team-strategy}
 
-We are the 007 Wolverines
 
 ### Handling Changes and Conflict {-#handling-changes-and-conflict}
 
